@@ -1,7 +1,5 @@
 import json
 import pymysql.cursors
-import MongoDBConnection
-constants = MongoDBConnection.getConstants()
 
 # first put the user password and hostname
 USER_= ""
